@@ -1,0 +1,108 @@
+[16:12:38] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.14.0-37-generic (amd64)
+[16:12:38] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-100-main@4873e3f (2026-01-29T11:02:49Z) for Minecraft 1.21.11
+[16:12:40] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:12:43] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[16:12:43] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - Chunky (1.4.40), TerraformGenerator (25.0.1)
+[16:12:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[16:12:58] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[16:12:58] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[16:12:59] [ServerMain/INFO]: No existing world data, creating new world
+[16:13:00] [ServerMain/INFO]: Loaded 1470 recipes
+[16:13:00] [ServerMain/INFO]: Loaded 1584 advancements
+[16:13:00] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[16:13:01] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 474.5ms
+[16:13:01] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[16:13:01] [Server thread/INFO]: Loading properties
+[16:13:01] [Server thread/INFO]: This server is running Paper version 1.21.11-100-main@4873e3f (2026-01-29T11:02:49Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[16:13:01] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:13:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:13:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:13:03] [Server thread/INFO]: [MoonriseCommon] Paper is using 4 worker threads, 1 I/O threads
+[16:13:03] [Server thread/INFO]: Default game type: SURVIVAL
+[16:13:03] [Server thread/INFO]: Generating keypair
+[16:13:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:13:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:13:03] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[16:13:03] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v25.0.1
+[16:13:03] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[16:13:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:13:03] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v25.0.1
+[16:13:03] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[16:13:04] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[16:13:04] [Server thread/INFO]: [TerraformGenerator] Detected version: v1_21_R7, packName: v1_21_R7
+[16:13:04] [Server thread/INFO]: Preparing level "world"
+[16:13:04] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] NUMA enable flag is not set; however there is NUMA interaction support for this OS.
+[16:13:04] [Server thread/INFO]: [ca.spottedleaf.moonrise.common.util.MoonriseConstants] Detected 1 NUMA nodes.
+[16:13:05] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[16:13:05] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[16:13:05] [Server thread/INFO]: [TerraformGenerator] Detected world: world_nether, commencing injection... 
+[16:13:05] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[16:13:05] [Server thread/INFO]: [TerraformGenerator] Detected world: world_the_end, commencing injection... 
+[16:13:05] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[16:13:05] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[16:13:05] [Server thread/INFO]: Preparing spawn area: 100%
+[16:13:05] [Server thread/INFO]: Prepared spawn area in 5 ms
+[16:13:05] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[16:13:05] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[16:13:05] [Server thread/INFO]: Prepared spawn area in 1 ms
+[16:13:05] [Server thread/INFO]: [TerraformGenerator] world_nether loaded.
+[16:13:05] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[16:13:05] [Server thread/INFO]: Prepared spawn area in 1 ms
+[16:13:05] [Server thread/INFO]: [TerraformGenerator] world_the_end loaded.
+[16:13:05] [Server thread/INFO]: Done preparing level "world" (1.158s)
+[16:13:05] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[16:13:06] [Server thread/INFO]: [spark] Starting background profiler...
+[16:13:06] [Server thread/INFO]: Running delayed init tasks
+[16:13:06] [Server thread/INFO]: Done (31.310s)! For help, type "help"
+[16:13:20] [User Authenticator #0/INFO]: UUID of player luido_ is f4ae94ea-b771-458e-8d3d-8e6cabeeadec
+[16:13:21] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
+[16:13:28] [Server thread/INFO]: luido_ joined the game
+[16:13:28] [Server thread/INFO]: luido_[/127.0.0.1:59720] logged in with entity id 8 at ([world]8.5, 65.0, 3.5)
+[16:19:36] [Server thread/INFO]: luido_ has made the advancement [Stone Age]
+[16:24:59] [Server thread/INFO]: luido_ has made the advancement [Getting an Upgrade]
+[16:29:43] [Server thread/INFO]: luido_ was slain by Zombie
+[16:44:19] [Server thread/INFO]: luido_ has made the advancement [Sweet Dreams]
+[17:00:03] [Server thread/INFO]: luido_ lost connection: Disconnected
+[17:00:03] [Server thread/INFO]: luido_ left the game
+[17:02:57] [Server thread/INFO]: Unknown or incomplete command. See below for error
+save<--[HERE]
+[17:03:02] [Server thread/INFO]: Unknown or incomplete command. See below for error
+save--<--[HERE]
+[17:03:16] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:03:16] [Server thread/INFO]: Saved the game
+[17:04:08] [Server thread/INFO]: Stopping the server
+[17:04:08] [Server thread/INFO]: Stopping server
+[17:04:08] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.40
+[17:04:08] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v25.0.1
+[17:04:08] [Server thread/INFO]: Saving players
+[17:04:08] [Server thread/INFO]: Saving worlds
+[17:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[17:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[17:04:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[17:04:08] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[17:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:04:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:04:08] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[17:04:08] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[17:04:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[17:04:08] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
